@@ -1,9 +1,9 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!-- TODO finish link -->
-<a href="">
+<!-- <a href="">
   <img align="left" alt="FWangZil's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
+</a> -->
 <!-- <a href="">
   <img align="left" alt="FWangZil's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> -->
@@ -22,17 +22,19 @@ Hi, I'm [FWangZil]()
 - 🔭 I’m currently working on Golang & Java
 - 🌱 I’m currently learning Rust , front-end development and machine learning
 
-
+<br />
 
 📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FWangZil&show_icons=true&theme=gotham" alt="FWangZil" />
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FWangZil&hide=html,css,JavaScript&&line_height=3&theme=gotham" alt="FWangZil" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FWangZil&hide=html,css,JavaScript&&line_height=3" alt="FWangZil" />
+<br />
 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FWangZil&theme=gotham" alt="FWangZil" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FWangZil&show_icons=true" alt="FWangZil" />
+<br />
 
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FWangZil" alt="FWangZil" />
+<br />
 <!-- <img align="right" alt="GIF" src=".gif?raw=true" width="500" height="320" /> -->
   
 
