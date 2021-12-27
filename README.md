@@ -39,6 +39,6 @@ Hi, I'm [FWangZil]()
   
 
 
-
+In 2021, I made 796 contributions and modified 5,000 lines of code. Check out my GitHub Wrapped and create your own at githubtrends.io/wrapped/FWangZil
 
 
