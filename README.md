@@ -1,44 +1,26 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!-- TODO finish link -->
-<!-- <a href="">
-  <img align="left" alt="FWangZil's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a> -->
-<!-- <a href="">
-  <img align="left" alt="FWangZil's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> -->
-
-![](https://visitor-badge.glitch.me/badge?page_id=FWangZil.FWangZil)
+![](https://komarev.com/ghpvc/?username=FWangZil&color=brightgreen&style=flat)
 
 <br />
 
-**Languages and Tools:**  
-<!-- TODO: add others  -->
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+Hi, I'm **Togo**
 
-
-Hi, I'm [FWangZil]()
-- 🔭 I’m currently working on Golang & Java
-- 🌱 I’m currently learning Rust , front-end development and machine learning
+- 🔭 I mainly code with **AI** now — turning ideas into reality at lightning speed
+- 🌱 Currently exploring AI agents, advanced prompting, and the future of software development
 
 <br />
 
-📈 My GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FWangZil&hide=html,css,JavaScript&&line_height=3" alt="FWangZil" />
-<br />
+### 📈 My GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=FWangZil&hide=html,css,javascript&layout=compact&theme=default" alt="Top Languages" />
+</p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FWangZil&show_icons=true" alt="FWangZil" />
-<br />
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=FWangZil&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" />
+</p>
 
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FWangZil" alt="FWangZil" />
-<br />
-<!-- <img align="right" alt="GIF" src=".gif?raw=true" width="500" height="320" /> -->
-  
-
-
-In 2021, I made 796 contributions and modified 5,000 lines of code. Check out my GitHub Wrapped and create your own at githubtrends.io/wrapped/FWangZil
-
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=FWangZil&theme=default" alt="GitHub Streak" />
+</p>
